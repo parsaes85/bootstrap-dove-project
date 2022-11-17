@@ -1,0 +1,15 @@
+@font-face{
+    font-family: yekan;
+    src: url(/fonts/iranyekanwebbold.ttf)
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    direction: rtl;
+    font-family: yekan;
+}
+.banner{
+    height: 92vh;
+}
